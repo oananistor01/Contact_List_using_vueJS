@@ -18,3 +18,5 @@ npm remove @vue/cli-plugin-eslint
 
 (because vue-cli 3 is using a zero configuration approach, the way to disable it is to just uninstall the module)
 
+Vue CLI installed and used. The CLI ( @vue/cli ) is a globally installed npm package and provides the vue command in your terminal.
+
